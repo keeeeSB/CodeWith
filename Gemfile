@@ -5,6 +5,7 @@ gem 'bootsnap', require: false
 gem 'cssbundling-rails'
 gem 'devise'
 gem 'haml-rails'
+gem 'html2haml'
 gem 'jbuilder'
 gem 'jsbundling-rails'
 gem 'kaminari'
